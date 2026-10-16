@@ -20,3 +20,5 @@ To run any script locally, execute the following command in your terminal:
 
 ```bash
 python mini-projects/armstrong_number_finder.py
+```
+> **Note:** Artificial Intelligence (AI) was used solely for variable naming and formatting this `README.md` file.
